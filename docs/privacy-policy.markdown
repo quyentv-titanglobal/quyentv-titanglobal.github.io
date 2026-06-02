@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
-**Last updated:** December 2025  
+**Last updated:** May 2026  
 We respect your privacy and are committed to protecting personal data. This Privacy Policy explains how we handle information when you use our games and related services.
 
 ### 1. Information We Collect  
