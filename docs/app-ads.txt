@@ -4164,3 +4164,5 @@ criteo.com, b-062019, RESELLER, 9fac4a4a87c2a44f
 pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
 media.net, 8cu355vs4, RESELLER
 appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
+programmaticx.ai, 100451, RESELLER
+b42d42eb28400efa,targetbetter.com, 6451, RESELLER
