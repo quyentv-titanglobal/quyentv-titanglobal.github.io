@@ -10,11 +10,11 @@ LumiPlay Studio brings together a team of seasoned game industry professionals, 
 
 ## Company Key Members
 
-- **Nhat Nguyen Trong – CEO, LumiPlay Studio**
+- **Nhat Nguyen Trong – CEO, LumiPlay Limited**
   - LinkedIn: <a href="https://www.linkedin.com/in/nguyen-nhat-29630a246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">Profile</a>
   - 6+ years of experience as a Game Designer
   - 3+ years of experience as a Product Owner
 
-- **Dung Dinh Tran – Mentor of LumiPlay Studio**
+- **Dung Dinh Tran – Mentor of LumiPlay Limited**
   - 8+ years of experience as a Producer
   - 3+ years of experience as a Game Developer
